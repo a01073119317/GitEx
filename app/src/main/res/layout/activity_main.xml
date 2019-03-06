@@ -21,7 +21,7 @@
                         android:id="@+id/textView1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="안녕하세요\n변경된내용변경된내용변경된내용\n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요
+                        android:text="안녕하세요\n변경된내용변경된내용변경12345된내용\n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요
                     \n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요\n"
                         android:textColor="@android:color/holo_blue_dark"
                         android:textSize="40dp" />
